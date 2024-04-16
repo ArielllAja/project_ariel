@@ -1,0 +1,22 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+    background-color: rgba(43, 43, 181, 0.702) !important;
+}
+
+.btn-like {
+    display: inline-block;
+    background-color: transparent;
+    color: black;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.btn-like i {
+    margin-right: 5px;
+}
